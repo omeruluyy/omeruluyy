@@ -1,4 +1,4 @@
-### Hi, I'm Ömer 👋
+### Ömer Uluyagmur | Computer Engineer & IT Professional
 
 <!--
 **omeruluyy/omeruluyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
